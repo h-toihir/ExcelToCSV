@@ -1,0 +1,14 @@
+
+<Manifest>
+    <ScripterInstanceName>ExcelToCSV</ScripterInstanceName>
+    <SwitchVersion>22.1</SwitchVersion>
+    <ScriptPackageFormatVersion>1.0</ScriptPackageFormatVersion>
+    <ScriptPasswordProtected>No</ScriptPasswordProtected>
+    <ScriptPackageType>Script</ScriptPackageType>
+    <ScriptDeclarationFile>ExcelToCSV.xml</ScriptDeclarationFile>
+    <ScriptProgramFiles>
+        <ScriptProgramFile ScriptLanguage="NodeJSScript">main.js</ScriptProgramFile>
+    </ScriptProgramFiles>
+    <ScriptIconFile>icon.png</ScriptIconFile>
+    <LocalizationItems/>
+</Manifest>
